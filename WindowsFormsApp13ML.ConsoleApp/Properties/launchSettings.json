@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WindowsFormsApp13ML.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
